@@ -18,8 +18,8 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
 # Telegram bot details
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
+TELEGRAM_BOT_TOKEN = "7068524411:AAGtJOwkTC7w3gwsY7gbE5OWlyw7SUHoe3U"
+TELEGRAM_CHAT_ID = "6300393008"
 
 def setup_driver(browser_type="firefox"):
     """Set up WebDriver based on the platform and browser type."""
