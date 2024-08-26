@@ -1,3 +1,4 @@
 Flask==2.1.2
 selenium==4.10.0
 requests==2.27.1
+werkzeug==2.0.3
